@@ -5,11 +5,9 @@ import { NexoApp } from './NexoApp'
 import './styles.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
     
     <BrowserRouter>
       <NexoApp />
     </BrowserRouter>
 
-  </React.StrictMode>
 )
