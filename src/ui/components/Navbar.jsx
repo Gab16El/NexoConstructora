@@ -17,7 +17,7 @@ export const Navbar = () => {
             <Link 
                 to="/"
             >
-                <img src="src\assets\img\logohorizontal.png" className='navbarImg'/>
+                <img src="\assets\img\logohorizontal.png" className='navbarImg'/>
             </Link>
 
                 <div className='navbaresp'>

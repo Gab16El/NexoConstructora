@@ -25,7 +25,7 @@ export const LoginPage = () => {
 
     <div className="cont">
     <div className="card" onSubmit={ onFormSubmit }>
-      <img src="src\assets\img\logohorizontal.png"/>
+      <img src="\assets\img\logohorizontal.png"/>
       <h3 className='h3log'>Inicia Sesion</h3>
 
       <div className="inputBox">

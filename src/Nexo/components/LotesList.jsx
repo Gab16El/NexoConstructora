@@ -6,7 +6,7 @@ export const LotesList = () => {
     <div className='gridd eliminarpadding'>
 
         <div className='logito divs'>
-            <img src="src\assets\img\logohorizontal.png"/>
+            <img src="assets\img\logohorizontal.png"/>
             <h3 className='h3log'>No te quedes sin tu lote</h3>
             <div className='row mt-5 divs'>
               Somos una empresa de diseño, ingenieria, construcción, supervisión y gerencia de proyectos:
@@ -21,11 +21,11 @@ export const LotesList = () => {
               <div className='gridd2'>
 
                 <div>
-                <img src="src\assets\img\flyer1.jpg"/>
+                <img src="assets\img\flyer1.jpg"/>
                 </div>
 
                 <div>
-                <img src="src\assets\img\flyer2.jpg"/>
+                <img src="assets\img\flyer2.jpg"/>
                 </div>
 
               </div>
